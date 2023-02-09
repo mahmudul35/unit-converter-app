@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+
+    <string-array name="Mass">
+
+        <item>Centigram</item>
+        <item>Dyne</item>
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Miligram</item>
+        <item>Microgram</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+
+
+    </string-array>
+    <string-array name="Mass1">
+
+        <item>Centigram</item>
+        <item>Dyne</item>
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Miligram</item>
+        <item>Microgram</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+
+    </string-array>
+    <string-array name="temper">
+
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="temper1">
+
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="Length">
+
+        <item>Centimeter</item>
+        <item>Decimeter</item>
+        <item>Foot</item>
+        <item>Inch</item>
+        <item>Mile</item>
+        <item>Kilometer</item>
+        <item>Meter</item>
+    </string-array>
+    <string-array name="Length1">
+
+        <item>Centimeter</item>
+        <item>Decimeter</item>
+        <item>Foot</item>
+        <item>Inch</item>
+        <item>Mile</item>
+        <item>Kilometer</item>
+        <item>Meter</item>
+    </string-array>
+
+    <string-array name="area">
+
+        <item>Square CM</item>
+        <item>Square DM</item>
+        <item>Square foot</item>
+        <item>Square M</item>
+        <item>Square Km</item>
+    </string-array>
+    <string-array name="area1">
+
+        <item>Square CM</item>
+        <item>Square DM</item>
+        <item>Square foot</item>
+        <item>Square M</item>
+        <item>Square Km</item>
+    </string-array>
+
+    <string-array name="currency">
+
+        <item>BDT</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>EUR</item>
+        <item>INR</item>
+        <item>RUB</item>
+        <item>SGD</item>
+        <item>USD</item>
+
+    </string-array>
+    <string-array name="currency1">
+
+        <item>BDT</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>EUR</item>
+        <item>INR</item>
+        <item>RUB</item>
+        <item>SGD</item>
+        <item>USD</item>
+
+
+    </string-array>
+
+    <string-array name="Pressure">
+
+        <item>Atmosphere</item>
+        <item>Bar</item>
+        <item>mmHg</item>
+        <item>Pascal</item>
+        <item>Torr</item>
+
+    </string-array>
+    <string-array name="Pressure1">
+
+
+        <item>Atmosphere</item>
+        <item>Bar</item>
+        <item>mmHg</item>
+        <item>Pascal</item>
+        <item>Torr</item>
+
+    </string-array>
+
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+
+
+</resources>

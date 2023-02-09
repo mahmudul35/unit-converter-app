@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home1"
+            android:icon="@drawable/nav_home"
+            android:title="Home"/>
+
+        <item
+            android:id="@+id/calc"
+            android:icon="@drawable/calculate_24"
+            android:title="Calculator"/>
+
+
+    </group>
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item android:title="App">
+
+            <menu>
+
+                <item
+                    android:id="@+id/history"
+                    android:icon="@drawable/ic_baseline_history_24"
+                    android:title="History"/>
+
+                <item
+                    android:id="@+id/Policy"
+                    android:icon="@drawable/policy_24"
+                    android:title="Policy" />
+            </menu>
+
+        </item>
+
+    </group>
+    <group
+        android:id="@+id/group3"
+        android:checkableBehavior="single">
+        <item android:title="Communicate">
+
+            <menu>
+                <item
+                    android:id="@+id/share"
+                    android:icon="@drawable/nav_share"
+                    android:title="Share App" />
+
+                <item
+                    android:id="@+id/rate"
+                    android:icon="@drawable/nav_rate"
+                    android:title="Rate Us" />
+            </menu>
+
+        </item>
+
+    </group>
+    <group
+        android:id="@+id/group4"
+        android:checkableBehavior="single">
+        <item android:title="Exit App">
+
+            <menu>
+                <item
+                    android:id="@+id/logout"
+                    android:icon="@drawable/nav_logout"
+                    android:title="Log out"/>
+            </menu>
+
+        </item>
+
+
+
+    </group>
+
+
+</menu>
